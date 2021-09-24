@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "bite-chat": {
+      "hosting": {
+        "power3": [
+          "bite-chat"
+        ]
+      }
+    }
+  }
+}
